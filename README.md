@@ -1,6 +1,20 @@
-### Hi there 👋, I'm Allesandria.
 
-Full Stack Web Developer | Lover of dogs 🐕  
+const readme = {
+  pronouns: "she" || "her",
+  aboutMe: ["slight tech nerd", "lover of dogs", "flower child", "boxer"],
+  loves: ["gardening", "working out", "cooking", "drag racing", "building web apps"],
+  technologies: {
+    frontend: ["html", "css", "javascript", "react", "redux", "axios"],
+    backEnd: ["nodejs", "express", ],
+    database: ["mongo", "sql"],
+    deployment: ["heroku"],
+    },
+  challenge: 
+    'Studying to take Security+ exam'
+}
+
+
+
 
 <!--
 **Abargallo19/Abargallo19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
