@@ -1,3 +1,4 @@
+```js
 
 const readme = {
   pronouns: "she" || "her",
@@ -12,7 +13,7 @@ const readme = {
   challenge: 
     'Studying to take Security+ exam'
 }
-
+```
 
 
 
