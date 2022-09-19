@@ -3,10 +3,10 @@
 const readme = {
   pronouns: "she" || "her",
   aboutMe: ["slight tech nerd", "lover of dogs", "flower child", "boxer"],
-  loves: ["gardening", "working out", "cooking", "drag racing", "building web apps"],
+  loves: ["gardening", "working out", "cooking", "car and motorcycle racing", "building web apps"],
   technologies: {
     frontend: ["html", "css", "javascript", "react", "redux", "axios"],
-    backEnd: ["nodejs", "express", ],
+    backEnd: ["nodejs", "express"],
     database: ["mongo", "sql"],
     deployment: ["heroku"],
     },
