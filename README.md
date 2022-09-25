@@ -9,7 +9,7 @@ const readme = {
   loves: ["gardening", "working out", "cooking", "car and motorcycle racing", "building web apps"],
   technologies: {
     frontend: ["html", "css", "javascript", "react", "redux", "axios"],
-    backend: ["nodejs", "express"],
+    backend: ["nodejs", "express", "RESTful APIs"],
     database: ["mongo", "sql"],
     deployment: ["heroku"],
     },
