@@ -14,8 +14,7 @@ const readme = {
     deployment: ["heroku"],
     },
   challenge: 
-    'Studying to take Security+ exam',
-    
+    'Studying to take Security+ exam'
 }
 ```
 
