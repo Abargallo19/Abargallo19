@@ -10,7 +10,7 @@ const readme = {
   technologies: {
     frontend: ["html", "css", "javascript", "react", "redux", "axios"],
     backend: ["nodejs", "express", "RESTful APIs"],
-    database: ["mongo", "sql"],
+    database: ["mongodb", "sql"],
     deployment: ["heroku"],
     },
   challenge: 
