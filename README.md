@@ -15,7 +15,8 @@ const readMe = {
     },
   challenge: 
     "Studying to take Security+ exam",
-    "Learning to specialize in Nodejs"
+    "Learning to specialize in Nodejs",
+    "Learning Linux"
 }
 ```
 
