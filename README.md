@@ -4,7 +4,7 @@
 ```js
 
 const readMe = {
-  pronouns: "she" && "her",
+  pronouns: "she" || "her",
   aboutMe: ["slight tech nerd", "lover of dogs", "flower child", "boxer"],
   loves: ["gardening", "working out", "cooking", "car and motorcycle racing", "building web apps"],
   technologies: {
@@ -15,7 +15,6 @@ const readMe = {
     },
   challenge: 
     "Studying to take Security+ exam",
-    "Learning to specialize in Nodejs",
     "Learning Linux"
 }
 ```
